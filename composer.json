@@ -13,7 +13,7 @@
     ],
     "homepage": "https://github.com/Sharifur/paymentgateway",
     "require": {
-        "laravel/framework": "^9.21",
+        "laravel/framework": "^9.19",
         "stripe/stripe-php": "^7.103",
         "srmklive/paypal": "~3.0",
         "midtrans/midtrans-php": "^2.5",
